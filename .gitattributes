@@ -1,0 +1,7 @@
+*.c    working-tree-encoding=CP1251    eol=CRLF
+*.c   working-tree-encoding=CP1251    eol=CRLF
+*.cpp    working-tree-encoding=CP1251    eol=CRLF
+*.hpp   working-tree-encoding=CP1251    eol=CRLF
+*.csv   working-tree-encoding=CP1251    eol=CRLF
+*.puml   working-tree-encoding=CP1251    eol=CRLF
+*.iuml   working-tree-encoding=CP1251    eol=CRLF

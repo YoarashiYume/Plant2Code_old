@@ -1,0 +1,15 @@
+@startuml
+
+skinparam monochrome true
+skinparam shadowing false
+skinparam DefaultFontSize 10
+skinparam DefaultFontName Verdana
+skinparam SvgLinkTarget _parent
+skinparam dpi 300
+skinparam RoundCorner 25
+
+'skinparam padding 0
+
+'!pragma useVerticalIf on
+
+@enduml
